@@ -10,7 +10,7 @@ I'm TechLife (he/him)! And this is my GitHub profile, which is used by me to sto
 > Sometimes I code stuff and sometimes I don't...that's how life works, I guess
 > - TechLife
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_Tech4Life_?style=for-the-badge"> <a href="https://www.buymeacoffee.com/TechLife"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+<br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-4447-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a><br><a href="https://www.buymeacoffee.com/TechLife"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 
 <!---
 
