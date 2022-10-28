@@ -11,6 +11,7 @@ I'm TechLife (he/him)! And this is my GitHub profile, which is used by me to sto
 > - TechLife
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_Tech4Life_?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge">
 
 <!---
 
