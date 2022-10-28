@@ -1,9 +1,9 @@
 ### Hi,
 I'm TechLife (he/him)! And this is my GitHub profile, which is used by me to store and access my code stuff. Currently most ~~if not all~~ of my repositories are private but eventually I might publish some of them.
 
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-7-success" alt="Total Repositories: 7"></img></a><br>
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-1-success" alt="Public Repositories: 1"></img></a>
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Private%20Repositories-6-red" alt="Private Repositories: 6"></img></a><br><br>
+<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-7-success?style=for-the-badge" alt="Total Repositories: 7"></img></a><br>
+<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-1-success?style=for-the-badge" alt="Public Repositories: 1"></img></a>
+<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Private%20Repositories-6-red?style=for-the-badge" alt="Private Repositories: 6"></img></a><br><br>
 
 
 
