@@ -1,14 +1,7 @@
 ### Hi,
-I'm TechLife (he/him)! And this is my GitHub profile, which is used by me to store and access my code stuff. Currently most ~~if not all~~ of my repositories are private but eventually I might publish some of them.
-
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Total%20Repositories-8-success?style=for-the-badge" alt="Total Repositories: 7"></img></a><br>
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-1-success?style=for-the-badge" alt="Public Repositories: 1"></img></a>
-<a href="https://github.com/TachLaif?tab=repositories"><img src="https://img.shields.io/badge/Private%20Repositories-7-red?style=for-the-badge" alt="Private Repositories: 6"></img></a><br><br>
+I'm TechLife (he/him)
 
 
-
-> Sometimes I code stuff and sometimes I don't...that's how life works, I guess
-> - TechLife
 
 <br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-4447-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a><br><a href="https://www.buymeacoffee.com/TechLife"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 
