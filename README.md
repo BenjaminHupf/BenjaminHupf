@@ -11,24 +11,32 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 </a>
 
 
+
 #### I'm currently working on:
 - null
 
-#### I'm interested in:
-- Artificial Intelligence
+#### Technologies I love:
+- Artificial Intelligence / Machine Learning
+- Facial Recognition
 
 #### I'm currently learning:
 - null
 
-#### Languages I use:
-- Python
-- C++
-- C#
-- HTML
+#### Programming Languages:
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="" title="" width="30"></a>
+
+
 - CSS
 - JavaScript
 - p5.js
 - Processing
+
 
 
 
