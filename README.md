@@ -35,17 +35,20 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 ### About me:
 ```python
 class TechLife:
-  name = 'TechLife'
-  age = 17
-  country = 'Germany'
-  hobbies = ['Programming',          # duh
-             'Reading',              # mostly Sci-Fi novels
-             'Graphic design',
-             'Space',                # so much space...need to see it all
-             'Playing video games']
-             
-             
-  openForHire = False
+    name = 'TechLife'
+    age = 17
+    country = 'Germany'
+    hobbies = ['Programming',          # duh
+               'Reading',              # mostly Sci-Fi novels
+               'Graphic design',
+               'Space',                # so much space...need to see it all
+               'Playing video games']
+    
+    contact = [NULL,                   # E-Mail (comming soon (maybe (tm)))
+               'TechLife#4447',        # Discord
+               '@_Tech4Life_']         # Twitter
+    
+    openForHire = False
 ```
 
 ### I'm currently playing:
