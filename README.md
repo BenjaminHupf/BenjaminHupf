@@ -23,10 +23,10 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 - null
 
 #### Programming Languages:
-<a href=""><img src="" title="" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
+<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/python.png" title="Python" width="30"></a>
+<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/html.svg" title="HTML" width="30"></a>
+<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/css.svg" title="CSS" width="30"></a>
+<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/js.svg" title="JavaScript" width="30"></a>
 <a href=""><img src="" title="" width="30"></a>
 <a href=""><img src="" title="" width="30"></a>
 <a href=""><img src="" title="" width="30"></a>
