@@ -1,45 +1,60 @@
-### Hi, 
+## Hi, 
 I'm TechLife (he/him), 17 years old hobby coder from Germany.
 <br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-4447-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 
-#### I'm currently playing:
+### Technologies I love:
+- Artificial Intelligence / Machine Learning
+- Facial Recognition
+
+### I'm currently working on:
+- _null_
+
+### I'm currently learning:
+- _null_
+
+### What I want to learn:
+- Reverse Engineering for CTFs
+- C++
+- Lua (maybe)
+
+### Programming Languages and Tools I use:
+<a href="https://www.python.org"><img src="https://user-images.githubusercontent.com/104715363/199490692-6801ae81-7cd4-4186-933c-c0f83d9fc5ce.png" title="Python" width="40"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/104715363/199490688-052fa1f6-07a4-4cd5-aa04-288ea9190f34.svg" title="HTML" width="40"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/104715363/199490685-821b7390-206a-4c8a-912f-a5048fc5f9b7.svg" title="CSS" width="40"></a>
+<a href="https://www.javascript.com"><img src="https://user-images.githubusercontent.com/104715363/199490689-d751f73e-b056-4922-a7a0-6771c053178c.svg" title="JavaScript" width="40"></a>
+<a href="https://p5js.org"><img src="https://user-images.githubusercontent.com/104715363/199491331-de5a1619-9b84-4af9-8855-a17193856c2d.png" title="p5.js" width="40"></a>
+<a href="https://processing.org"><img src="https://user-images.githubusercontent.com/104715363/199491334-59b10772-f21b-46c3-a38f-30eb3216e84e.png" title="Processing" width="40"></a>
+<a href="https://www.mysql.com"><img src="https://user-images.githubusercontent.com/104715363/199503547-2a594375-87d3-480a-ba25-52937f886dfe.png" title="MySQL" width="40"></a>
+<br>
+<a href="https://code.visualstudio.com"><img src="https://user-images.githubusercontent.com/104715363/199504641-02b477ea-ea37-48da-9dde-a1d3c2a8a378.png" title="Visual Studio Code" width="40"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/104715363/199517237-03c07303-b440-44df-9193-1d944f2218ab.png" title="PyCharm" width="40"></a>
+<a href="https://www.raspberrypi.com"><img src="https://user-images.githubusercontent.com/104715363/199517243-f146f7c5-feee-4e6c-b7ba-c7851c1c9f09.png" title="RaspberryPI" height="40"></a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachlaif&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tachlaif" /></p>
+
+### About me:
+```python
+class TechLife:
+  name = 'TechLife'
+  age = 17
+  country = 'Germany'
+  hobbies = ['Programming',          # duh
+             'Reading',              # mostly Sci-Fi novels
+             'Graphic design',
+             'Space',                # so much space...need to see it all
+             'Playing video games']
+             
+             
+  openForHire = False
+```
+
+### I'm currently playing:
 <a href="https://store.epicgames.com/de/p/control">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/104715363/199300418-4d7a6a6d-2f33-4e68-86eb-02cc3f8202f7.png">
  <img src="https://user-images.githubusercontent.com/104715363/199300414-953ad8dc-9be0-48c6-93eb-b9c2b5f89e2e.png" width="384">
 </picture>
 </a>
-
-
-
-#### I'm currently working on:
-- null
-
-#### Technologies I love:
-- Artificial Intelligence / Machine Learning
-- Facial Recognition
-
-#### I'm currently learning:
-- null
-
-#### Programming Languages:
-<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/python.png" title="Python" width="30"></a>
-<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/html.svg" title="HTML" width="30"></a>
-<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/css.svg" title="CSS" width="30"></a>
-<a href=""><img src="https://github.com/TachLaif/TachLaif/tree/main/logos/js.svg" title="JavaScript" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
-<a href=""><img src="" title="" width="30"></a>
-
-
-- CSS
-- JavaScript
-- p5.js
-- Processing
-
-
-
-
 
 <!---
 https://shields.io/
