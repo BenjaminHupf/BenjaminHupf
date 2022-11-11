@@ -7,7 +7,8 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 - Facial Recognition
 
 ### I'm currently working on:
-- _null_
+- <a href="https://github.com/TachLaif/Banking-graph-for-Hypixel-Skyblock">Banking graph for Hypixel Skyblock</a>
+- Publishing another program I made
 
 ### I'm currently learning:
 - _null_
