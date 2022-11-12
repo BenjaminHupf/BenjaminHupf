@@ -5,6 +5,7 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 ### Technologies I love:
 - Artificial Intelligence / Machine Learning
 - Facial Recognition
+- Robotics
 
 ### I'm currently working on:
 - <a href="https://github.com/TachLaif/Banking-graph-for-Hypixel-Skyblock">Banking graph for Hypixel Skyblock</a>
