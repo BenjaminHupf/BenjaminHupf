@@ -8,7 +8,7 @@ I'm TechLife (he/him), 17 years old hobby coder from Germany.
 - Robotics
 
 ### I'm currently working on:
-- <a href="https://github.com/TachLaif/Banking-graph-for-Hypixel-Skyblock">Banking graph for Hypixel Skyblock</a>
+- <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel Skyblock</a>
 - Publishing another program I made
 
 ### I'm currently learning:
