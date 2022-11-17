@@ -13,7 +13,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 17 years old hobby coder from Germany
 - Publishing another program I made
 
 ### I'm currently learning:
-- _null_
+- C++ (kinda)
 
 ### What I want to learn:
 - Reverse Engineering for CTFs
