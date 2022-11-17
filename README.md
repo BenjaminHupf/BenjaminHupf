@@ -66,6 +66,7 @@ class TechLife:
 </picture>
 </a>
 
+(Paused: Mainboard broken)
 <!---
 https://shields.io/
 --->
