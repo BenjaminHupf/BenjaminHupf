@@ -9,6 +9,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 17 years old hobby coder from Germany
 
 ### I'm currently working on:
 - <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel Skyblock</a>
+- <a href="https://github.com/TachLaif/Discord-bot-for-SkyBlock-graph">Discord bot for SkyBlock graph</a>
 - Publishing another program I made
 
 ### I'm currently learning:
