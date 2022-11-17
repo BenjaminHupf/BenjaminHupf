@@ -33,7 +33,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 17 years old hobby coder from Germany
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/104715363/199517237-03c07303-b440-44df-9193-1d944f2218ab.png" title="PyCharm" width="40"></a>
 <a href="https://www.raspberrypi.com"><img src="https://user-images.githubusercontent.com/104715363/199517243-f146f7c5-feee-4e6c-b7ba-c7851c1c9f09.png" title="RaspberryPI" height="40"></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachlaif&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="tachlaif" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachlaif&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" /></p>
 
 ### About me:
 ```python
