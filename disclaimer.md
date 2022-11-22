@@ -1,1 +1,3 @@
 Writing me **may or may not** result in me __OSINTing__ you...
+
+By the way, we updated our **privacy policy**
