@@ -36,7 +36,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 17 years old hobby coder from Germany
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachlaif&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" /></p>
 
-### About me:
+### About me:[^1]
 ```python
 class TechLife:
     def __init__(self):
@@ -68,6 +68,8 @@ class TechLife:
 </a>
 
 (Paused: Mainboard broken)
+
+[^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
 <!---
 https://shields.io/
 --->
