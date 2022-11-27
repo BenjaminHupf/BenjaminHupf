@@ -67,7 +67,7 @@ class TechLife:
 </picture>
 </a>
 
-(Paused: Mainboard broken)
+(Paused: ~~Mainboard~~ PSU broken)
 
 [^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
 <!---
