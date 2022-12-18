@@ -66,6 +66,8 @@ class TechLife:
  <img src="https://user-images.githubusercontent.com/104715363/199300414-953ad8dc-9be0-48c6-93eb-b9c2b5f89e2e.png" width="384">
 </picture>
 </a>
+
+
 (DLCs now)
 
 [^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
