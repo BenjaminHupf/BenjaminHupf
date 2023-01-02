@@ -14,11 +14,10 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 17-year old hobby coder from Germany.
 - <a href="https://github.com/TachLaif/wahl-o-selfie-v1">Wahl-O-Selfie v1</a>
 
 ### I'm currently learning:
-- __NULL__
+- C++ (kinda)
 
 ### What I want to learn:
 - Reverse Engineering for CTFs
-- C++
 - Lua (maybe)
 
 ### Programming Languages and Tools I use:
@@ -69,5 +68,7 @@ class TechLife:
 
 
 (DLCs now)
+
+(On pause again...my PC is killing me)
 
 [^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
