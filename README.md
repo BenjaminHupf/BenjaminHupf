@@ -1,3 +1,14 @@
+ ________                   __       __       __  ______           
+|        \                 |  \     |  \     |  \/      \          
+ \▓▓▓▓▓▓▓▓ ______   _______| ▓▓____ | ▓▓      \▓▓  ▓▓▓▓▓▓\ ______  
+   | ▓▓   /      \ /       \ ▓▓    \| ▓▓     |  \ ▓▓_  \▓▓/      \ 
+   | ▓▓  |  ▓▓▓▓▓▓\  ▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓\ ▓▓     | ▓▓ ▓▓ \   |  ▓▓▓▓▓▓\
+   | ▓▓  | ▓▓    ▓▓ ▓▓     | ▓▓  | ▓▓ ▓▓     | ▓▓ ▓▓▓▓   | ▓▓    ▓▓
+   | ▓▓  | ▓▓▓▓▓▓▓▓ ▓▓_____| ▓▓  | ▓▓ ▓▓_____| ▓▓ ▓▓     | ▓▓▓▓▓▓▓▓
+   | ▓▓   \▓▓     \\▓▓     \ ▓▓  | ▓▓ ▓▓     \ ▓▓ ▓▓      \▓▓     \
+    \▓▓    \▓▓▓▓▓▓▓ \▓▓▓▓▓▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓\▓▓\▓▓       \▓▓▓▓▓▓▓
+
+
 ## Hi, 
 I'm Benjamin "**TechLife**" Hupf (he/him), 17-year old hobby coder from Germany.
 <br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-4447-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
@@ -55,7 +66,7 @@ class TechLife:
         self.computer = setComputer(cpu = 'Ryzen 9 5900x', 
                                     gpu = 'GeForce RTX 3090', 
                                     ram = '32 GB 3200 MHz',
-                                    broken = True) // :-(
+                                    broken = True) # :-(
     
         self.openForHire = False
 
