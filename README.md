@@ -66,7 +66,7 @@ class TechLife:
                        
         self.computer = setComputer(cpu = 'Ryzen 9 5900x', 
                                     gpu = 'GeForce RTX 3090', 
-                                    ram = '32 GB 3200 MHz',
+                                    ram = 'DDR 4 32 GB 3200 MHz',
                                     broken = True) # :-(
     
         self.openForHire = False
