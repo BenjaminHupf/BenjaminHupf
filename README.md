@@ -51,6 +51,11 @@ class TechLife:
         self.contact = [NULL,                   # E-Mail (comming soon (maybe (tm)))
                         'TechLife#4447',        # Discord
                         '@_Tech4Life_']         # Twitter
+                       
+        self.computer = setComputer(cpu = "Ryzen 9 5900x", 
+                                    gpu = "GeForce RTX 3090", 
+                                    ram = "32 GB 3200 MHz",
+                                    broken = True) // :-(
     
         self.openForHire = False
 
