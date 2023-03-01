@@ -77,16 +77,8 @@ class TechLife:
 ```
 
 ### I'm currently playing:
-<a href="https://store.epicgames.com/de/p/control">
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/104715363/199300418-4d7a6a6d-2f33-4e68-86eb-02cc3f8202f7.png">
- <img src="https://user-images.githubusercontent.com/104715363/199300414-953ad8dc-9be0-48c6-93eb-b9c2b5f89e2e.png" width="384">
-</picture>
+<a href="https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/">
+ <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Sons_of_the_Forest_Logo.png" width="384">
 </a>
-
-
-(DLCs now)
-
-(On pause again...my PC is killing me)
 
 [^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
