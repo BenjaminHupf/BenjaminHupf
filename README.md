@@ -22,15 +22,12 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
 - Malware
 
 ### I'm currently working on:
-- <a href="https://github.com/TachLaif/Bank-graph-for-Hypixel-Skyblock">Bank graph for Hypixel Skyblock</a>
-- <a href="https://github.com/TachLaif/Discord-bot-for-SkyBlock-graph">Discord bot for SkyBlock graph</a>
-- <a href="https://github.com/TachLaif/wahl-o-selfie-v1">Wahl-O-Selfie v1</a>
+- Publishing two programs I made
 
 ### I'm currently learning:
-- nothing
+- CTF stuff
 
 ### What I want to learn:
-- Reverse Engineering for CTFs
 - C++
 - Lua (maybe)
 
