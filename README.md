@@ -22,7 +22,8 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
 - Malware
 
 ### I'm currently working on:
-- Publishing two programs I made
+- Publishing Journalist
+- Publishing Wahl-O-Selfie v2
 
 ### I'm currently learning:
 - CTF stuff
