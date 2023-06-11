@@ -22,7 +22,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
 - Malware
 
 ### I'm currently working on:
-- Publishing Journalist
+- Publishing ~~Journalist~~ Scamscrape
 - Publishing Wahl-O-Selfie v2
 
 ### I'm currently learning:
@@ -66,8 +66,7 @@ class TechLife:
                        
         self.computer = setComputer(cpu = 'Ryzen 9 5900x', 
                                     gpu = 'GeForce RTX 3090', 
-                                    ram = 'DDR 4 32 GB 3200 MHz',
-                                    broken = False)
+                                    ram = 'DDR 4 32 GB 3200 MHz')
     
         self.openForHire = False
 
