@@ -13,7 +13,7 @@ ________                   __       __       __  ______
 
 ## Hi, 
 I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
-<br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-4447-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+<br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-techlife-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 
 ### Technologies I am interested in:
 - Artificial Intelligence / Machine Learning
@@ -75,8 +75,22 @@ class TechLife:
 ```
 
 ### I'm currently playing:
-<a href="https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/">
- <img src="https://upload.wikimedia.org/wikipedia/fr/0/01/Sons_of_the_Forest_Logo.png" width="384">
+~~Way too much~~
+<p>
+<a href="https://store.steampowered.com/app/1091500/Cyberpunk_2077/">
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.redd.it%2Fgwsphxkkwyl31.png&sp=1694987090T9f8f82241076a41136cae7db859c033b177cac91de473b0a10aa92b14815f25a" width="384">
 </a>
+<p><p><p>
+<a href="https://store.steampowered.com/app/1716740/Starfield/">
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fgamepedia.cursecdn.com%2Fstarfield_gamepedia_en%2Fthumb%2Fc%2Fc9%2FLogo.png%2F580px-Logo.png%3Fversion%3Dae79992c7b715a0abbc16a305ef1c1f4&sp=1694987113T95a0022726e7f15f3a8c7c1747ff7bd9b48c93460429d9877e18101881d4dc05" width="384">
+</a>
+<p><p><p>
+<a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn2.steamgriddb.com%2Ffile%2Fsgdb-cdn%2Flogo%2Fa9d4a0a256f5e6ae0452039e3493f22c.png&sp=1694987099Tb0c037b299a63b4c398a82d8976ea8b64ea7fc4e650b57819756bc5b0231e697" width = "384">
+</a>
+<p><p><p><p><p><p>
+<a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/">
+ <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpurepng.com%2Fpublic%2Fuploads%2Flarge%2Fpurepng.com-the-witcher-3-logowitcherthe-witcherandrzej-sapkowskiwriterfantasy-serieswitcher-geralt-of-riviawitchersbooksmonster-hunterssupernaturaldeadly-beastsseriesvideo-gamesxbox-1701528661087ubekb.png&sp=1694987650Ta89b40dab631e0cc871b22246c04373b418ce29a88e3067861e104d27ea1ef63" width="384">
+</a
 
 [^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
