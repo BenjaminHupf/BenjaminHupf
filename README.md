@@ -61,7 +61,7 @@ class TechLife:
                         'Playing video games']
     
         self.contact = [NULL,                   # E-Mail (comming soon (maybe (tm)))
-                        'TechLife#4447',        # Discord
+                        'TechLife@techlife',        # Discord
                         '@_Tech4Life_']         # Twitter
                        
         self.computer = setComputer(cpu = 'Ryzen 9 5900x', 
