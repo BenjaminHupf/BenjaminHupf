@@ -12,7 +12,7 @@ ________                   __       __       __  ______
 ```
 
 ## Hi, 
-I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
+I'm **TechLife** (he/him), 18-year old hobby coder from Germany.
 <br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-techlife-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
 
 ### Technologies I am interested in:
@@ -51,7 +51,7 @@ I'm Benjamin "**TechLife**" Hupf (he/him), 18-year old hobby coder from Germany.
 ```python
 class TechLife:
     def __init__(self):
-        self.name = 'Benjamin "TechLife" Hupf'
+        self.name = 'TechLife'
         self.age = 18
         self.country = 'Germany'
         self.hobbies = ['Programming',          # duh
@@ -77,10 +77,6 @@ class TechLife:
 ### I'm currently playing:
 ~~Way too much~~
 <p>
-<a href="https://store.steampowered.com/app/1091500/Cyberpunk_2077/">
-<img src="https://wallpapercave.com/wp/wp6501594.png" width="384">
-</a>
-<p><p><p>
 <a href="https://store.steampowered.com/app/1716740/Starfield/">
 <img src="https://static.wikia.nocookie.net/starfield_gamepedia_en/images/c/c9/Logo.png/revision/latest?cb=20180611064933" width="384">
 </a>
