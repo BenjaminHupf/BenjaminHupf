@@ -20,16 +20,18 @@ I'm **TechLife** (he/him), 18-year old hobby coder from Germany.
 - Facial Recognition
 - Robotics
 - Malware
+- Cyber Security
 
 ### I'm currently working on:
 - ~~Journalist~~ Scamscrape
 - Making and Cracking Enigma
 
 ### I'm currently learning:
-- CTF stuff
+- NULL
 
 ### What I want to learn:
 - C++
+- CTF stuff
 - Lua (maybe)
 
 ### Programming Languages and Tools I use:
