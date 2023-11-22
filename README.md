@@ -25,6 +25,9 @@ I'm **TechLife** (he/him), 18-year old hobby coder from Germany.
 ### I'm currently working on:
 - ~~Journalist~~ Scamscrape
 - Making and Cracking Enigma
+- VirusVanguard
+- Internet-Mapping
+- Sudoku Solver
 
 ### I'm currently learning:
 - NULL
