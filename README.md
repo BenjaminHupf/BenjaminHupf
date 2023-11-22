@@ -30,10 +30,9 @@ I'm **TechLife** (he/him), 18-year old hobby coder from Germany.
 - Sudoku Solver
 
 ### I'm currently learning:
-- NULL
+- C++
 
 ### What I want to learn:
-- C++
 - CTF stuff
 - Lua (maybe)
 
