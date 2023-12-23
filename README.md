@@ -81,10 +81,6 @@ class TechLife:
 ### I'm currently playing:
 ~~Way too much~~
 <p>
-<a href="https://store.steampowered.com/app/1716740/Starfield/">
-<img src="https://static.wikia.nocookie.net/starfield_gamepedia_en/images/c/c9/Logo.png/revision/latest?cb=20180611064933" width="384">
-</a>
-<p><p><p>
 <a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">
 <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a9d4a0a256f5e6ae0452039e3493f22c.png" width = "384">
 </a>
