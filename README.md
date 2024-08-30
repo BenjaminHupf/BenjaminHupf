@@ -10,14 +10,13 @@ I'm **Benjamin** (he/him), 19-year old hobby coder from Germany.
 - Cyber Security
 
 ### I'm currently working on:
-- ~~Journalist~~ Scamscrape
 - Making and Cracking Enigma
 - VirusVanguard
 - Internet-Mapping
 - Sudoku Solver
 
 ### I'm currently learning:
-- C++
+- C#
 
 ### What I want to learn:
 - CTF stuff
