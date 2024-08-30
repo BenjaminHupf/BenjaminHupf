@@ -1,19 +1,6 @@
-```
-________                   __       __       __  ______           
-|        \                 |  \     |  \     |  \/      \          
- \▓▓▓▓▓▓▓▓ ______   _______| ▓▓____ | ▓▓      \▓▓  ▓▓▓▓▓▓\ ______  
-   | ▓▓   /      \ /       \ ▓▓    \| ▓▓     |  \ ▓▓_  \▓▓/      \ 
-   | ▓▓  |  ▓▓▓▓▓▓\  ▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓\ ▓▓     | ▓▓ ▓▓ \   |  ▓▓▓▓▓▓\
-   | ▓▓  | ▓▓    ▓▓ ▓▓     | ▓▓  | ▓▓ ▓▓     | ▓▓ ▓▓▓▓   | ▓▓    ▓▓
-   | ▓▓  | ▓▓▓▓▓▓▓▓ ▓▓_____| ▓▓  | ▓▓ ▓▓_____| ▓▓ ▓▓     | ▓▓▓▓▓▓▓▓
-   | ▓▓   \▓▓     \\▓▓     \ ▓▓  | ▓▓ ▓▓     \ ▓▓ ▓▓      \▓▓     \
-    \▓▓    \▓▓▓▓▓▓▓ \▓▓▓▓▓▓▓\▓▓   \▓▓\▓▓▓▓▓▓▓▓\▓▓\▓▓       \▓▓▓▓▓▓▓
-
-```
- 
-## Hi, 
-I'm **TechLife** (he/him), 19-year old hobby coder from Germany.
-<br><br><a href="https://discord.com"><img src="https://img.shields.io/badge/TechLife-techlife-informational?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://twitter.com/_Tech4Life_"><img src="https://img.shields.io/badge/Twitter-@__Tech4Life__-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.buymeacoffee.com/TechLife" title="I like coffee!"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-red?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
+ ## Hi, 
+I'm **Benjamin** (he/him), 19-year old hobby coder from Germany.
+<br><br><a href="https://twitter.com/BenjaminHupf"><img src="https://img.shields.io/badge/Twitter-@BenjaminHupf-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
 ### Technologies I am interested in:
 - Artificial Intelligence / Machine Learning
@@ -51,22 +38,21 @@ I'm **TechLife** (he/him), 19-year old hobby coder from Germany.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tachlaif&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" /></p>
 
-### About me:[^1]
+### About me:
 ```python
-class TechLife:
+class BenjaminHupf:
     def __init__(self):
-        self.name = 'TechLife'
-        self.age = 18
+        self.name = 'Benjamin Hupf'
+        self.age = 19
         self.country = 'Germany'
-        self.hobbies = ['Programming',          # duh
-                        'Reading',              # mostly Sci-Fi novels
+        self.hobbies = ['Programming',               # duh
+                        'Reading',                   # mostly Sci-Fi novels
                         'Graphic design',
-                        'Space',                # so much space...need to see it all
+                        'Space',                     # so much space...need to see it all
                         'Playing video games']
     
-        self.contact = [NULL,                   # E-Mail (comming soon (maybe (tm)))
-                        'TechLife@techlife',    # Discord
-                        '@_Tech4Life_']         # Twitter
+        self.contact = ['benjamin.hupf@proton.me',   # E-Mail
+                        '@BenjaminHupf']             # Twitter
                        
         self.computer = setComputer(cpu = 'Ryzen 9 5900x', 
                                     gpu = 'GeForce RTX 3090', 
@@ -79,14 +65,7 @@ class TechLife:
 ```
 
 ### I'm currently playing:
-~~Way too much~~
 <p>
 <a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">
 <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a9d4a0a256f5e6ae0452039e3493f22c.png" width = "384">
 </a>
-<p><p><p><p><p><p>
-<a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/">
- <img src="https://purepng.com/public/uploads/large/purepng.com-the-witcher-3-logowitcherthe-witcherandrzej-sapkowskiwriterfantasy-serieswitcher-geralt-of-riviawitchersbooksmonster-hunterssupernaturaldeadly-beastsseriesvideo-gamesxbox-1701528661087ubekb.png" width="384">
-</a
-
-[^1]: <a href="https://github.com/TachLaif/TachLaif/blob/main/disclaimer.md">Disclaimer</a>
