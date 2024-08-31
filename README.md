@@ -21,6 +21,7 @@ I'm **Benjamin** (he/him), 19-year old hobby coder from Germany.
 ### What I want to learn:
 - CTF stuff
 - Lua (maybe)
+- probably Rust
 
 ### Programming Languages and Tools I use:
 <a href="https://www.python.org"><img src="https://user-images.githubusercontent.com/104715363/199490692-6801ae81-7cd4-4186-933c-c0f83d9fc5ce.png" title="Python" width="40"></a>
