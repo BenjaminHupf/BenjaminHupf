@@ -16,9 +16,10 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is 
 - Sudoku Solver
 
 ### I'm currently learning:
-- C#
+- NULL
 
 ### What I want to learn:
+- C# / C++
 - CTF stuff
 - Lua (maybe)
 - probably Rust
