@@ -1,5 +1,5 @@
  ## Hi, 
-I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is about to study computer science.
+I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is currently studying computer science.
 <br><br><a href="https://twitter.com/BenjaminHupf"><img src="https://img.shields.io/badge/Twitter-@BenjaminHupf-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
 ### Technologies I am interested in:
@@ -10,10 +10,7 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is 
 - Cyber Security
 
 ### I'm currently working on:
-- Making and Cracking Enigma
-- VirusVanguard
-- Internet-Mapping
-- Sudoku Solver
+- My bachelor degree
 
 ### I'm currently learning:
 - NULL
@@ -28,7 +25,7 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is 
 <a href="https://www.python.org"><img src="https://user-images.githubusercontent.com/104715363/199490692-6801ae81-7cd4-4186-933c-c0f83d9fc5ce.png" title="Python" width="40"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/104715363/199490688-052fa1f6-07a4-4cd5-aa04-288ea9190f34.svg" title="HTML" width="40"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/104715363/199490685-821b7390-206a-4c8a-912f-a5048fc5f9b7.svg" title="CSS" width="40"></a>
-<a href="https://www.javascript.com"><img src="https://user-images.githubusercontent.com/104715363/199490689-d751f73e-b056-4922-a7a0-6771c053178c.svg" title="JavaScript" width="40"></a>
+<a href="https://www.java.com/en/"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" title="Java" height="40"></a>
 <a href="https://p5js.org"><img src="https://user-images.githubusercontent.com/104715363/199491331-de5a1619-9b84-4af9-8855-a17193856c2d.png" title="p5.js" width="40"></a>
 <a href="https://processing.org"><img src="https://user-images.githubusercontent.com/104715363/199491334-59b10772-f21b-46c3-a38f-30eb3216e84e.png" title="Processing" width="40"></a>
 <a href="https://www.mysql.com"><img src="https://user-images.githubusercontent.com/104715363/199503547-2a594375-87d3-480a-ba25-52937f886dfe.png" title="MySQL" width="40"></a>
@@ -64,9 +61,3 @@ class BenjaminHupf:
     def drinkCoffee():
         print('*slurp')
 ```
-
-### I'm currently playing:
-<p>
-<a href="https://store.steampowered.com/app/1086940/Baldurs_Gate_3/">
-<img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/a9d4a0a256f5e6ae0452039e3493f22c.png" width = "384">
-</a>
