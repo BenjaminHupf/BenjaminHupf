@@ -1,5 +1,5 @@
  ## Hi, 
-I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is currently studying computer science.
+I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany.
 <br><br><a href="https://twitter.com/BenjaminHupf"><img src="https://img.shields.io/badge/Twitter-@BenjaminHupf-informational?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 
 ### Technologies I am interested in:
@@ -10,7 +10,7 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany who is 
 - Cyber Security
 
 ### I'm currently working on:
-- My bachelor degree
+- Nothing
 
 ### I'm currently learning:
 - NULL
