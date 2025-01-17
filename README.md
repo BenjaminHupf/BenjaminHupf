@@ -13,10 +13,10 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany.
 - ScamScrape
 
 ### I'm currently learning:
-- NULL
+- C#
 
 ### What I want to learn:
-- C# / C++
+- C++
 - CTF stuff
 - Lua (maybe)
 - probably Rust
