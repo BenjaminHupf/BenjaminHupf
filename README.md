@@ -10,7 +10,6 @@ I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany.
 
 ### I'm currently working on:
 - <a href="https://github.com/BenjaminHupf/Inspirely">Inspirely</a>
-- ScamScrape
 
 ### I'm currently learning:
 - C#
