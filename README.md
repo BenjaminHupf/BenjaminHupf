@@ -2,7 +2,7 @@
 I'm **Benjamin** (he/him) and I'm a 19-year old hobby coder from Germany.
 
 ### Technologies I am interested in:
-- Artificial Intelligence / Machine Learning
+- Artificial Intelligence / Machine Learning / Large Language Models
 - Facial Recognition
 - Robotics
 - Malware
